@@ -1,2 +1,3 @@
 # hello-world
 20181103
+Hopefully i can learn some coding here...
